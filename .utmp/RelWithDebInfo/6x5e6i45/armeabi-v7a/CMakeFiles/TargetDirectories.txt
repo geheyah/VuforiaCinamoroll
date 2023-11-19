@@ -1,0 +1,5 @@
+G:/Unity/vuforiatest-main/.utmp/RelWithDebInfo/6x5e6i45/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/Unity/vuforiatest-main/.utmp/RelWithDebInfo/6x5e6i45/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+G:/Unity/vuforiatest-main/.utmp/RelWithDebInfo/6x5e6i45/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+G:/Unity/vuforiatest-main/.utmp/RelWithDebInfo/6x5e6i45/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+G:/Unity/vuforiatest-main/.utmp/RelWithDebInfo/6x5e6i45/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
